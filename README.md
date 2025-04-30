@@ -47,8 +47,4 @@ Ele permite gerenciar **fornecedores**, **produtos**, **movimentações de estoq
 
 ---
 
-## ✅ Como Executar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
